@@ -32,7 +32,7 @@ I love to learn about Entrepreneurship, Technology, Programming and Business
 
 ## STATS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BralexMtz&hide=TeX&layout=compact&theme=material-palenight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BralexMtz&show_icons=true&count_private=true&include_all_commits=true&theme=theme=material-palenight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BralexMtz&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)  
 
 ![GitHub metrics](https://metrics.lecoq.io/BralexMtz)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BralexMtz)  
