@@ -1,10 +1,14 @@
 ### Hi there 👋, my name is Bralex
 #### I am Computer Engineer and Constant Learner
-![I am Computer Engineer and Constant Learner](https://i.imgur.com/xDB5gRy.jpg)
+![I am Computer Engineer and Constant Learner](https://i.imgur.com/xDB5gRy.jpg?1)
 
 I love to learn about Entrepreneurship, Technology, Programming and Business
 
-Skills: Node JS / JS / HTML / CSS / PHP / SQL
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 - 🔭 I’m currently working on Web Development and Load Balancing with Haproxy 
 - 🌱 I’m currently learning Artificial Intelligence 
@@ -15,7 +19,7 @@ Skills: Node JS / JS / HTML / CSS / PHP / SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BralexMtz)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BralexMtz&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BralexMtz&show_icons=true&count_private=true&theme=dracula)  
 
 ![GitHub metrics](https://metrics.lecoq.io/BralexMtz)  
 
