@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, my name is Bralex
-#### I am Computer Engineer and Constant Learner
+#### I am Computer Engineer, Constant Learner Entrepreneur.
 ![I am Computer Engineer and Constant Learner](https://i.imgur.com/xDB5gRy.jpg?1)
 
 
@@ -19,8 +19,10 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![WordPress](https://img.shields.io/badge/-Wordpress-yellowgreen?style=flat-square&logo=Wordpress)
+![Platzi](https://img.shields.io/badge/-Platzi-white?style=flat-square&logo=Platzi)
 
-I love to learn about Entrepreneurship, Technology, Programming and Business
+I love to learn about Technology, Programming and Business.
 
 
 - 🔭 I’m currently working on Web Development and Load Balancing with Haproxy 
@@ -31,8 +33,8 @@ I love to learn about Entrepreneurship, Technology, Programming and Business
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BralexMtz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bralex.mart)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bralex.mtz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BralexMartinez)  
 
 ## STATS
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BralexMtz&hide=TeX&layout=compact&theme=material-palenight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BralexMtz&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BralexMtz&hide=TeX&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BralexMtz&show_icons=true&count_private=true&include_all_commits=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/BralexMtz)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BralexMtz)  
